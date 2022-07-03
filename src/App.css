@@ -1,0 +1,17 @@
+.navbar > div{
+  display:flex;
+  width:90%;
+  margin:auto;
+  justify-content: space-between;
+
+}
+.navbar{
+  border-bottom: 1px solid black;
+}
+
+.navbar > div > div{
+  display:flex;
+  align-items: center;
+  gap:30px;
+
+}
